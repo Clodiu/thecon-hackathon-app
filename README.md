@@ -1,5 +1,7 @@
 # Project Description
-**Take a break is a mobile application developed with React Native that serves as an interactive guide to various locations like cafes, restaurants, and points of interest. It's designed to provide users with not just static information but also a dynamic, AI-generated "vibe" for each place, helping them discover the perfect spot for any occasion.**
+**"Take a break" is a mobile application developed with React Native that serves as an interactive guide to various locations like cafes, restaurants, and points of interest. It's designed to provide users with not just static information but also a dynamic, AI-generated "vibe" for each place, helping them discover the perfect spot for any occasion.**
+
+**Made in less than 24 hours. One man army.**
 
 ---
 
