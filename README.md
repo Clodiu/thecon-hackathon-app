@@ -33,6 +33,6 @@
 
 **🧭 Navigation & Linking:** Expo Linking
 
-![ChatBot](https://github.com/user-attachments/assets/3d027045-8f53-4e10-b16b-8303cd282147) ![List](https://github.com/user-attachments/assets/46cf9c78-aa05-4ee0-89dc-f51dba7bb329) ![MapView](https://github.com/user-attachments/assets/e2bad2b5-1912-4fb9-b39b-0b72d28d99cb) ![PinnedLocation](https://github.com/user-attachments/assets/5a5ad413-a41b-43fb-8381-90b430d1fd9f) ![LocationView](https://github.com/user-attachments/assets/accba919-1599-4a9c-bc43-5325fdb1c42e)
+![IMG-20251126-WA0006](https://github.com/user-attachments/assets/9d074b44-4134-46d4-acdb-810a5359564f) ![IMG-20251126-WA0007](https://github.com/user-attachments/assets/031497d2-7ec6-467e-8e4f-81f332944eb1) ![IMG-20251126-WA0008](https://github.com/user-attachments/assets/b3b20bfb-e95f-41e6-b1b5-93a320b6f5de) ![IMG-20251126-WA0005](https://github.com/user-attachments/assets/787a13a4-cba0-4aa8-9a3b-b4d0a7884e4b) ![IMG-20251126-WA0009](https://github.com/user-attachments/assets/7a60a133-e972-45ee-b939-3fdc33216dfe)
 
 This project demonstrates how modern AI can be integrated into a practical mobile application to enrich the user experience, transforming a simple location guide into a smart discovery tool.
